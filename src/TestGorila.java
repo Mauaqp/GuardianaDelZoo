@@ -4,16 +4,10 @@ public class TestGorila {
 		
 		Gorila test = new Gorila();
 		test.lanzarCosas();
-		test.trepar();
 		test.lanzarCosas();
 		test.lanzarCosas();
 		test.comerBananas();
 		test.comerBananas();
-		test.trepar();
-		test.lanzarCosas();
-		test.lanzarCosas();
-		test.trepar();
-		test.trepar();
 		test.trepar();
 		
 	}
